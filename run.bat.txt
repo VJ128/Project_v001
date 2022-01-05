@@ -1,0 +1,2 @@
+cd C:\Users\vedas\eclipse-workspace\iBanking
+mvn clean install
